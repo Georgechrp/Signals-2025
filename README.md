@@ -1,5 +1,5 @@
 # Signals-2025
-University Project for Separate speech & noise
+University Project for Separate speech from noise
 
 ## 📌 Σκοπός
 Αυτή η εργασία υλοποιεί ένα σύστημα που ανιχνεύει πότε υπάρχει ομιλία (speech) και πότε μόνο θόρυβος (background) σε ένα ηχητικό αρχείο. 
